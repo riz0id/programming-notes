@@ -128,3 +128,7 @@ If we then include an import statement `import math` the environment of the "A.p
 | ...      | ...             |
 
 You can print the full global Python environment using the function [`globals`](https://docs.python.org/3/library/functions.html#globals) and the current local Python environment using [`local`](https://docs.python.org/3/library/functions.html#locals).
+
+# Next Reading
+
+Read sections 1.5, 1.6, and 1.7 by the 14th of Janurary. No class will be held on Jan 7th or Jan 9th.
